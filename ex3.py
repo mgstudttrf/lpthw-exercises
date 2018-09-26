@@ -1,0 +1,16 @@
+print(" i will now count my chickens")
+print("hens", 30 + 40/5)
+print("roosters", 100 - 25 * 3 % 4)
+
+print("gonna count eggs")
+print(3 + 4 +5 + 4 % 2 - 1 / 4 + 6)
+# everyday
+print("isit tru that 3plus2 is less than 5 minus 7")
+print(3 + 2< 5 - 7)
+print("what is 3 plus 2", 3 +2)
+print("what is 5 minus 7", 5-7)
+print("oh thats 2hy its false")
+print("How bout sum more")
+print("Is it greater", 5 > -2)
+print("isit greater or equal", 5 >=-2)
+print("is it less or equal", 5 <=-2)
